@@ -1,0 +1,35 @@
+.container {
+    border: 1px solid red;
+    padding: 10px;
+    gap: 4;
+    background-color: rgb(232, 221, 221);
+    color: black;
+}
+
+.container label {
+    font-size: 18px;
+    margin: 0 8px;
+    padding: 5px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+.container input {
+    height: 20px;
+    padding: 5px;
+
+}
+
+select {
+    height: 30px;
+    margin: 0 10px;
+    width: 150px;
+}
+
+.btn {
+    padding: 5px 8px;
+    border-radius: 5px;
+    background: greenyellow;
+    color: black;
+    cursor: pointer;
+}
